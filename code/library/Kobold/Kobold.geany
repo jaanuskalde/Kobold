@@ -1,0 +1,24 @@
+
+[indentation]
+indent_width=3
+indent_type=0
+indent_hard_tab_width=8
+detect_indent=false
+indent_mode=3
+
+[project]
+name=Kobold
+base_path=/home/jaanus/sketchbook/libraries/Kobold
+description=
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=1
+FILE_NAME_0=475;C;0;16;0;1;1;/home/jaanus/sketchbook/libraries/Kobold/Communication.h;0;3
+FILE_NAME_1=4406;C++;0;16;0;1;1;/home/jaanus/sketchbook/libraries/Kobold/Communication.cpp;0;3
+FILE_NAME_2=983;None;0;16;0;1;1;/home/jaanus/ut/kõrgem_mat/kompleksarvud;0;3
+FILE_NAME_3=93;None;0;16;0;1;1;/home/jaanus/projektid/todo;0;3
+FILE_NAME_4=50;None;0;16;0;1;1;/home/jaanus/ut/FMP/FMP;0;3
